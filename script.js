@@ -12,6 +12,7 @@ let savollar = [
       javobi: "c"
    },
    {
+    
       savol: " nechchi soni yoqmaydi?",
       variant: [ "A. 2", "B. 3", 
       "C. 5", "D. 6 "],

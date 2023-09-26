@@ -1,0 +1,11 @@
+.container{
+   width: 0;
+   padding: 0; 
+   border-radius: 20px;
+   background-color: bisque;
+}
+.navbar{
+    border-radius: 40px;
+border: 1px solid #FFF;
+background: var(--gradient-grey-bg, linear-gradient(90deg, #ECF2F6 0%, rgba(236, 242, 246, 0.00) 70.31%));
+}
